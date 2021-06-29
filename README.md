@@ -2,7 +2,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=E1C1FE&height=250&section=header&text=welcome%20to%20my%20githup&fontSize=50&fontColor=ffff)
 
-GitHub Readme Stats: github-readme-stats.vercel.app/api?username=DaHee200&show_icons=true
+github-readme-stats.vercel.app/api?username=DaHee200&show_icons=true
 
 <!--
 - 🔭 
